@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atypon-devops-training",
+  "private_key_id": "f33aa1719a9225a9eea63ca4040555b5e050909f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZbGFHWBqHEDE1\ncJhNfH7c9USMYf9RZqjIyfT8OJ8KjLg/R82643CqC5Q0lTJzmYPKxAAs5Dtd2EBp\nQImycb82akdsSjL2a/DcN6cASxhHz+s2foncURJyDfaQfO7gqlKe8QvzLYcJznlP\nO9joWEjxRkzH9p1eGp6hKY2pkWvepZsSjwjlosF/27oszdE7U2JilzoPePZPD7nl\ngkbeVC6jPkZUW9Q32XEPwvSlYKP69zB3AWMdDPBZTJTz9CMMpW958iU9zOL4a5dQ\niRWJJzaB1MgAvj6pfW9Obx5zJaxftLILQPjli+HBYvQGqZ1qsKPvGIXZyIJa/LxZ\nho1k8dVNAgMBAAECggEADD4wbXOw7WFkXqL8IIOId+ljtm1KPYuEqOceYW7QHdL2\nCQeCYSoEzRPL1k4pwh1R24K/6RyM7z2JxaN5ss+kOcHa9bu+iju3xgloNk8ENf78\n5VuovabfCAcbQYrsvz/irnUvpr4t4sfP8uiRepEwwk1NbjEdLrsHAFeLqjxjEO1d\nup5GN04/sC0CrC3xi4wUi1plQA5kPQ+ycV313MdFBtq/KlQah0S60euxvusIiHVz\nNj7zdoycyxUvNQza0QkQoy0ROTCSYEQonc9EWH0j7u0gJQCeOcfTU9eSzGbWvdC7\nMUNh4H2lRluK72a+fav7d3krRWE6Fi5BzcXHn7pyIQKBgQD5ckJSBBgIAJlyaxz8\nnmcP+DJ4NQg/6L/5apfdc/0SnPLDOO0axbeWKja6UtR6vFwM40x/vCPC4WWtFJqV\nyndTcXC5IDWXrfU33Ys9X3F8wTQbapJ2kyrsPrPpMeBtHtzUABrsmg6d/eBva3wU\nf/nvlSbql37Q2mVnFeJuxDCexQKBgQDfIr0s4tnOrAAoXWhhcnim5t8VtsMyVUwQ\nOoMOmsBtYzKbVdjNPKE2iT/Z2uYabzxg8dS57gFLdSDy3OrkX00Ahc8c1Jq5L1MY\nNTyjELPqciR5GtjMeeNxQZ2Qx4cGABxnoOz+IQWAWNSts1FiOb1yavb9JhbEKGXB\n5XEa2MFE6QKBgF6fNQEfhG4krBB3CTvaaoXoRFzM4SA9DfVytcDPasRQvNXJFkf9\nkDJqOPBc0zTrlo9c+XvKxlX6YjNRiYIglzsT4QqYaTvsRQS4CUVymv4T28w6lOxd\nzv5mmqBuxw8dke7pS01M8xaDY0tgnmS4VvrGvUhnxzc6YRTFfGtACKFxAoGBAM+W\nF/ysRwmYxsTGsZcG0ewkGSKwVsR6yjrG1Ko/mgmqIaiVow68+xYrdbWNikjJd5iR\nIuCe5aF3pGGM2RIA/zgfRGGEATWLK3j3/iOOJHNWIUxxh4QjWU9CRf4tQhZ4//QA\nqLp7qgyPl7zJeEszgGXz0TgNuVxgYNqURDc/s/4RAoGAJCvjR6jhrzHY+b8MPQUs\n4gPjsQtdfZzOkJkKUhcIfVIXRBi75fW7Ln2Y4NqgT/3G+yYU0wZRYJZ41us8X2QF\nT9+X7oQFNsSQ6w+bHBZTjTILgSSK+CRPARjDgmJjVPnOGDb4uYgoO0PE9it23W94\ndMNJb78JMsYOqFmlg1pP4ZA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rdahdolan@atypon-devops-training.iam.gserviceaccount.com",
+  "client_id": "106752707097354367294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rdahdolan%40atypon-devops-training.iam.gserviceaccount.com"
+}
